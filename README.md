@@ -1,1 +1,1 @@
-# ATS-react-app
+# Abstractive Text Summarization-react-app
